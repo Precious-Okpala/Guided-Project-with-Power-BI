@@ -7,4 +7,4 @@ This repository contains documentation for analyzing a hotel-booking dataset usi
 
 Click 👉 [here](https://drive.google.com/drive/folders/1ylgna8ygMuxMlXAbzl1F-It-ZbyxWcXN?usp=sharing) 👈 to see these files.
 ## Author
-[Precious](https://github.com/Precious-Okpala)
+[Precious Okpala](https://github.com/Precious-Okpala)
