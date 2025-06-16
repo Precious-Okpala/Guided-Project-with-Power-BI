@@ -5,4 +5,6 @@ This repository contains documentation for analyzing a hotel-booking dataset usi
 - **Data dictionary.md**: Documentation describing the structure and contents of each table in the dataset.
 - **README.md**: This file provides an overview of the repository and instructions for accessing and sharing the guided project with Power BI.
 
-Click 👉[here](https://drive.google.com/drive/folders/1ylgna8ygMuxMlXAbzl1F-It-ZbyxWcXN?usp=sharing)👈 to see these files.
+Click 👉 [here](https://drive.google.com/drive/folders/1ylgna8ygMuxMlXAbzl1F-It-ZbyxWcXN?usp=sharing) 👈 to see these files.
+## Author
+[Precious](https://github.com/Precious-Okpala)
