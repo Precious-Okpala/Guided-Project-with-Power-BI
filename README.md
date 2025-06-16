@@ -1,6 +1,6 @@
 # Guided-Project-with-Power BI
 ## Overview
-This repository contains documentation for analyzing a hotel-booking dataset using Power BI. The dataset imcludes information about customer types, customer arrival dates, customer location, meal types, booking types and data collected from the period of the year 2018 to 2020.
+This repository contains documentation for analyzing a hotel-booking dataset using Power BI. The dataset imcludes information about customer types, customer arrival dates, customer location, meal types, booking types and data collected from the period of year 2018 to 2020.
 ## Files
 - [Data dictionary.md](https://docs.google.com/spreadsheets/d/e/2PACX-1vQb2LVAx9HPDzoa2rQkvm9zAGQs2OoslU6JnntTGq9rXcWixs_10aZiwXdKJ81W0lsXU8J_zLNdc_E3/pubhtml?gid=1868586274&single=true): Documentation describing the structure and contents of each table in the dataset.
 - **README.md**: This file provides an overview of the repository and instructions for accessing and sharing the guided project with Power BI.
