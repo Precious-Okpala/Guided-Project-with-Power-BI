@@ -1,10 +1,22 @@
-# Guided-Project-with-Power BI
-## Overview
-This repository contains documentation for analyzing a hotel-booking dataset using Power BI. The dataset includes information about customer types, customer arrival dates, customer location, meal types, booking types and data collected from the period of year 2018 to 2020.
-## Files
-- [Data dictionary.md](https://docs.google.com/spreadsheets/d/e/2PACX-1vQb2LVAx9HPDzoa2rQkvm9zAGQs2OoslU6JnntTGq9rXcWixs_10aZiwXdKJ81W0lsXU8J_zLNdc_E3/pubhtml?gid=1868586274&single=true): Documentation describing the structure and contents of each table in the dataset.
-- **README.md**: This file provides an overview of the repository and instructions for accessing the guided project with Power BI.
+![image](https://github.com/user-attachments/assets/5eb2a1e5-de4f-422b-b63e-0c88fd673763)
 
-Click 👉 [here](https://drive.google.com/drive/folders/1ylgna8ygMuxMlXAbzl1F-It-ZbyxWcXN?usp=sharing) 👈 to see these files.
-## Author
-[Precious Okpala](https://github.com/Precious-Okpala)
+# Introduction
+In the dynamic hospitality industry, data-driven decision-making has become an indispensable tool for optimizing operations and enhancing customer satisfaction. This case study explores how leveraging Power BI to analyze hotel booking data can significantly improve operational efficiency and guest experiences.
+
+# Problem Statement
+Our client, a prominent hotel chain, is facing challenges in managing bookings and maximizing revenue. They have reached out to Datafied Technologies to utilize data analytics for insights into booking patterns, guest demographics, and operational efficiencies. The goal is to develop a comprehensive strategy to enhance customer satisfaction and optimize revenue.
+You are a junior data analyst at Datafied Technologies. You are required to harness the power of data analytics to:
+- Identify and understand booking patterns and trends.
+- Analyze guest demographics and preferences.
+- Develop actionable insights to optimize revenue and enhance customer satisfaction.
+
+# Data Sourcing
+You will be working with a dataset encompassing various aspects of hotel bookings, ranging from booking details to guest demographics. Each entry contains essential information like the Average Daily Rate (ADR), number of guests, booking agency, arrival details, room assignments, and more. Understanding and harnessing this data will allow us to uncover patterns, identify opportunities, and make informed decisions.
+
+For further details on the data table specification, consult the data dictionary document.
+
+The successful execution of this project will empower the hotel management to make informed decisions, leading to substantial improvements in revenue optimization and guest satisfaction. This not only transforms traditional hotel management methods but also underscores the significance of a proactive, data-driven approach in addressing the evolving challenges of the hospitality industry.
+
+Data Source: [Hotel Dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJgQDtdAm0IHL4VoVJoZZap2aHZU5oXABM9ox5R_AWOCIy_TLqUzk8MePGZK2p7QIPPTQhTs6KC5YA/pub?output=xlsx)
+
+# Data transformation and cleaning
