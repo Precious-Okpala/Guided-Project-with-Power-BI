@@ -28,7 +28,7 @@ The dataset was cleaned by removing duplicates, correcting any inconsistent data
 ### Dataset after cleaning
 ![image](https://github.com/user-attachments/assets/390bc7ff-7d35-4242-8f9e-dfeb500ae593)
 
-## Data modelling
+# Data modelling
 Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
 
 - Date Table
