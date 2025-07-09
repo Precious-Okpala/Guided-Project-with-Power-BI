@@ -42,6 +42,9 @@ The data model was designed using the Star Schema where the different dimensions
 
 ![image](https://github.com/user-attachments/assets/83ec5d91-06d4-4951-b32a-9f60311fb96b)
 
+![image](https://github.com/user-attachments/assets/5dfd010c-43ae-4646-ace6-b7cbb50b0bb6)
+
+
 # Data analysis and Visualization
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
 
