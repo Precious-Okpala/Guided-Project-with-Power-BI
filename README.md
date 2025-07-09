@@ -20,3 +20,30 @@ The successful execution of this project will empower the hotel management to ma
 Data Source: [Hotel Dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJgQDtdAm0IHL4VoVJoZZap2aHZU5oXABM9ox5R_AWOCIy_TLqUzk8MePGZK2p7QIPPTQhTs6KC5YA/pub?output=xlsx)
 
 # Data transformation and cleaning
+The dataset was cleaned by removing duplicates, correcting any inconsistent dataypes, and ensuring the data is in a suitable format for analysis and visualization.
+
+### Dataset before cleaning
+![image](https://github.com/user-attachments/assets/2f9c6e4a-e454-4cee-bd40-fdfb9f03e583)
+
+### Dataset after cleaning
+![image](https://github.com/user-attachments/assets/390bc7ff-7d35-4242-8f9e-dfeb500ae593)
+
+## Data modelling
+Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
+
+- Date Table
+- Location Table
+- Distribution Channel Table
+- Hotel Table
+- Market Segment Table
+- Market Cost Table
+
+The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
+
+![image](https://github.com/user-attachments/assets/83ec5d91-06d4-4951-b32a-9f60311fb96b)
+
+## Data analysis and Visualization
+Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
+
+![image](https://github.com/user-attachments/assets/a900b462-3c61-4862-aa45-c501beec3995)
+
