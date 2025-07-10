@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5eb2a1e5-de4f-422b-b63e-0c88fd673763)
+![image](https://github.com/user-attachments/assets/5dfd010c-43ae-4646-ace6-b7cbb50b0bb6)
 
 # Introduction
 In the dynamic hospitality industry, data-driven decision-making has become an indispensable tool for optimizing operations and enhancing customer satisfaction. This case study explores how leveraging Power BI to analyze hotel booking data can significantly improve operational efficiency and guest experiences.
@@ -42,11 +42,33 @@ The data model was designed using the Star Schema where the different dimensions
 
 ![image](https://github.com/user-attachments/assets/83ec5d91-06d4-4951-b32a-9f60311fb96b)
 
-![image](https://github.com/user-attachments/assets/5dfd010c-43ae-4646-ace6-b7cbb50b0bb6)
-
-
 # Data analysis and Visualization
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
 
 ![image](https://github.com/user-attachments/assets/a900b462-3c61-4862-aa45-c501beec3995)
 
+# Insights
+- The hotel has a strong overall booking volume, indicating high customer interest and consistent business flow.
+- The average daily rate suggests the pricing is moderately set, making it accessible to a wide range of guests.
+- Guest retention is very low, which may indicate issues with guest satisfaction, experience, or lack of loyalty programs.
+- The cancellation rate is quite high, showing that a significant portion of guests cancel their bookings.
+- The majority of bookings come through third-party travel agents, while direct and corporate channels are used far less frequently.
+- Most guests prefer the bed and breakfast meal plan, while other meal options like half board or full board are rarely selected.
+- One particular room type is overwhelmingly booked, while many other room types have minimal or no bookings.
+- Non-repeat guests cancel their bookings much more frequently than repeat guests, who are more consistent and reliable.
+- Booking activity peaked in mid-2019, followed by a notable decline, likely influenced by external events such as the pandemic.
+- City hotels are slightly more popular than resort hotels, showing a preference among guests for urban accommodations.
+
+# Recommendation
+- Introduce loyalty programs and exclusive offers to encourage more guests to return and improve retention.
+- Review and tighten cancellation policies or offer non-refundable booking incentives to reduce the high cancellation rate.
+- Increase investment in digital marketing and website optimization to drive more direct bookings and reduce dependency on third-party agents.
+- Assess and reposition underperforming room types through better promotion, redesign, or by phasing out those with consistently low demand.
+- Create attractive meal package deals to encourage guests to explore underused options like half board and full board.
+- Focus marketing efforts on retaining repeat guests, as they tend to be more committed and less likely to cancel.
+- Activate and leverage global distribution systems (GDS) to attract business and international travelers, especially from the corporate segment.
+- Analyze the post-peak booking decline in depth to understand whether it was driven by internal service issues or broader market trends.
+- Expand and enhance offerings in city hotels, as they currently attract more guests than resort locations.
+- Design seasonal promotions and discounts during historically low booking periods to balance demand throughout the year.
+
+<img width="1294" height="865" alt="image" src="https://github.com/user-attachments/assets/0630d050-fc30-4811-882a-69e11a9d83c4" />
